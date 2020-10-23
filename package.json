@@ -1,0 +1,11 @@
+{
+    "name": "allegro",
+    "version": "1.0.0",
+    "main": "main.js",
+    "devDependencies": {
+        "electron": "^10.1.4"
+    },
+    "scripts": {
+        "start": "electron ."
+    }
+}
