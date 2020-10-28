@@ -1,0 +1,1 @@
+Add all JavaScript,css,images relating to the visuals
